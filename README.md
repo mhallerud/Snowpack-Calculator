@@ -1,6 +1,6 @@
 NOTE: This script has been used in a limited number of circumstances and is not well-vetted. It was designed to work with ArcGIS Desktop Version 10.7.1.
 
-# Snowpack-Calculator
+# Snowpack Calculator
 Given a set of coordinates and associated dates, extracts SNODAS data and calculates overall and daily snow depth statistics at each set of locations and associated dates. Designed for camera-trap locations but could be applied with any location data, and could be easily adapted for daily calculations of other raster data.
 
 # To Use
