@@ -1,0 +1,11 @@
+nrows 3351
+ncols 6935
+nbands 1
+nbits 16
+pixeltype signedint
+byteorder M
+layout dat
+ulxmap -124.733333333333
+ulymap 52.8749999999999
+xdim 0.00833333333
+ydim 0.00833333333
