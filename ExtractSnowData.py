@@ -7,7 +7,7 @@
 # Compatible with ArcGIS Desktop Version 10.7.1                                       #
 #                                                                                     #
 # Date Created: Aug 6 2020                                                            #
-# Author: Maggie Hallerud (margaret.hallerud@maine.edu)                               #
+# Author: Maggie Hallerud                                                             #
 #-------------------------------------------------------------------------------------#
 
 ## set user inputs
