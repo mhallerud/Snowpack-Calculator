@@ -11,11 +11,11 @@
 #-------------------------------------------------------------------------------------#
 
 ## set user inputs
-temp_dir = 'C:/Users/bryn.evans/Desktop/SNODAS Winter Snow Depth Data' # temporary folder that will be made to store temp files
+temp_dir = 'C:/Users/Maggie/Desktop/SNODAS Winter Snow Depth Data' # temporary folder that will be made to store temp files
 buffer_dist = 1000 # buffer distance in meters
-input_csv = 'C:/Users/bryn.evans/Desktop/SNODAS Winter Snow Depth Data/NECESSARY_CODE_FILES/WY2_WY3_to_04302019.csv' # input CSV with camera coordinates and dates
-output_folder = 'C:/Users/bryn.evans/Desktop/SNODAS Winter Snow Depth Data//Output_CSVs' # folder to store outputs in
-header_file = 'C:/Users/bryn.evans/Desktop/SNODAS Winter Snow Depth Data/NECESSARY_CODE_FILES/BaseHeaderFile.hdr' # filepath to header file with specified raster attributes
+input_csv = 'C:/Users/Maggie/Desktop/Snow_Depth_Calculations/NECESSARY_CODE_FILES/InputCameraData.csv' # input CSV with coordinates and dates
+output_folder = 'C:/Users/Maggie/Desktop/Snow_Depth_Calculations/Output_CSVs' # folder to store outputs in
+header_file = 'C:/Users/Maggie/Desktop/Snow_Depth_Calculations/NECESSARY_CODE_FILES/BaseHeaderFile.hdr' # filepath to header file with specified raster attributes
 
 
 # import dependencies
