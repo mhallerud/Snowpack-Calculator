@@ -6,7 +6,7 @@ Given a set of coordinates and associated dates, extracts SNODAS data and calcul
 # To Use
 1. Install the numpy dependency, if not already installed.
 2. Download the ExtractSnowData.py and BaseHeaderFile.hdr files.
-3. Format locations and date ranges as seen in the ExampleInputCSV.csv file.
+3. Format locations and date ranges as seen in the Example_Input_CSV.csv file.
 4. Set the user-defined file paths at the top of the script:
  - `temp_dir` = path to an empty folder where intermediate files will be stored (this can be deleted after the script is finished running)
  - `input_csv` = path to your input data CSV, which should be formatted as in the example CSV
